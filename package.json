@@ -1,0 +1,23 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Seeing if I can make an express server to serve static files and for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "\"ExpressJS\"",
+    "\"fun\"",
+    "\"static",
+    "files\""
+  ],
+  "author": "Luke A. Rollins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
